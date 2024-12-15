@@ -12,6 +12,8 @@
     background-color: #01161a;
     
   }
+
+
   
   /* Quote Section */
   .quote-section {
@@ -115,7 +117,7 @@
 
 
   .bots {
-    padding: 0 30%;
+    padding: 1% 30%;
     text-align: center;
   }
   
